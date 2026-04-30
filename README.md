@@ -1,4 +1,4 @@
-# ccs-blind-artifacts
+# Only This Time Illusion Artifacts
 
 This anonymous repository contains the artifacts required to reproduce the core contributions, measurements, and mitigations presented in our ACM CCS submission. 
 
